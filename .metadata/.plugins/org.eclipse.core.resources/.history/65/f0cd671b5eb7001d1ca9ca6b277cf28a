@@ -1,5 +1,0 @@
-package com.Tapestry.MyProject.data;
-
-public enum Honorific {
-	MR, MRS, MISS, DR
-}

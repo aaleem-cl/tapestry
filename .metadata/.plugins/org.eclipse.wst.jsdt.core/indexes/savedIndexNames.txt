@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Users\U6073031\TapestryWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4266113860.index
-1043086978.index
-2145003023.index
-136753089.index
-4197440954.index
-1577162738.index
