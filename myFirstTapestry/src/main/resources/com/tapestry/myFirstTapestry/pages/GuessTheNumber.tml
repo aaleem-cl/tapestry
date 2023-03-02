@@ -1,0 +1,7 @@
+<html t:type="layout" title="Hi/Lo Guess"
+    xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd">
+	<h4>Guess the number between one and ten</h4>
+    <p>
+         <t:actionlink t:id="start">start guessing</t:actionlink>
+    </p>
+</html>
