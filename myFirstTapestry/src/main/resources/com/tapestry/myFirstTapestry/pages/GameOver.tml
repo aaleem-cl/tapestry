@@ -1,0 +1,20 @@
+<html t:type="layout" title="Game Over"
+    xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+    xmlns:p="tapestry:parameter">
+
+    <p>
+        You guessed the number
+        <strong>${target}</strong>
+        in
+        <strong>${guessCount}</strong>
+        guesses.
+    </p>
+  	<h4>Want to play the game Again?</h4>
+    <p>
+         <t:pagelink page="GuessTheNumber" class="navbar-brand">Click here</t:pagelink>
+    </p>
+    <h4>Go to index page</h4>
+    <p>
+         <t:pagelink page="index" class="navbar-brand">Index page</t:pagelink>
+    </p>
+</html>
